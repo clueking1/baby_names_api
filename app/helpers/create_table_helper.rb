@@ -1,0 +1,2 @@
+module CreateTableHelper
+end

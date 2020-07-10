@@ -1,0 +1,2 @@
+module GetTableHelper
+end
