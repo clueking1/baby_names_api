@@ -1,0 +1,7 @@
+      invoke  active_record
+      remove    db/migrate/20200710132928_create_tables.rb
+      create    db/migrate/20200710141617_create_tables.rb
+   identical    app/models/table.rb
+      invoke    test_unit
+   identical      test/models/table_test.rb
+       force      test/fixtures/tables.yml

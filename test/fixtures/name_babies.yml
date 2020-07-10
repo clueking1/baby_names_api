@@ -2,14 +2,8 @@
 
 one:
   name: MyString
-  add_index,: MyString
-  [: 
-  unique: MyString
-  'true': MyString
+  tabele: MyString
 
 two:
   name: MyString
-  add_index,: MyString
-  [: 
-  unique: MyString
-  'true': MyString
+  tabele: MyString
