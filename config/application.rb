@@ -28,5 +28,4 @@ module BabyNamesApi
       end
     end
   end
-  end
 end
